@@ -1,2 +1,2 @@
 # dolar-mep
-Sacar cotización del dolar MEP con distntos instrumentos
+Sacar cotización del dolar MEP con distintos instrumentos
